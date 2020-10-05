@@ -1,12 +1,3 @@
-# today: get connect 4 done
-# tmr: react routers and advanced react + react hooks
-# mon: website marquees
-# tue: website marquees
-# wed: django
-# thu: django -- all week
-# make website with infinite connect 4 and react and django toether
-# learn vscode and make an extension for a todo list in vscode
-
 # TODO list:
 # add radius to checking for available positions for the ai
 # show a percentage for the ai
